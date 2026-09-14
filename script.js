@@ -234,7 +234,7 @@ const analysisItems = [
     }
   },
   {
-    year: '2026', venue: 'Gazete Oksijen', link: '',
+    year: '2026', venue: 'Gazete Oksijen', link: 'https://gazeteoksijen.com/dunya/ceuta-krizi-neden-oldu-onlenebilir-miydi-gelecekte-yeniden-yasanacak-mi-285887',
     title: 'Ceuta krizi: Neden oldu? Önlenebilir miydi?',
     type: { es: 'Análisis', tr: 'Analiz', en: 'Analysis' },
     text: {
@@ -244,7 +244,7 @@ const analysisItems = [
     }
   },
   {
-    year: '2026', venue: 'Fayn', link: '',
+    year: '2026', venue: 'Fayn', link: 'https://www.fayn.press/ispanya-fas-krizi-goc-degil-guc-mucadelesi/',
     title: 'İspanya-Fas krizi: Göç değil güç mücadelesi',
     type: { es: 'Análisis', tr: 'Analiz', en: 'Analysis' },
     text: {
